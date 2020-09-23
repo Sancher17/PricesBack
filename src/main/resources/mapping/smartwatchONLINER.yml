@@ -1,0 +1,27 @@
+Дата выхода на рынок : releaseDateOnMarket
+Оперативная память : rAM
+Флэш-память : flashMemory
+Тип : type
+Программная платформа : softwarePlatform
+Поддержка платформ : platformSupport
+С SIM-картой : withSIMCard
+Материал корпуса : caseMaterial
+Цвет корпуса : colorOfBody
+Материал браслета : braceletMaterial
+Цвет браслета : colorOfBracelet
+Уведомления : notice
+Звонки : calls
+Дистанционное управление : remoteControl
+Пыле- и влагозащита : dustproofAndMoistureProof
+Длина : length
+Ширина : width
+Толщина : thickness
+Вес : weight
+Технология экрана : screenTechnology
+Размер экрана : screenSize
+Разрешение экрана : screenResolution
+Разрешающая способность экрана : resolutionOfScreen
+Сенсорный экран : touchScreen
+Тип аккумулятора : batteryType
+Емкость аккумулятора : batteryCapacity
+Время работы : whileWorking

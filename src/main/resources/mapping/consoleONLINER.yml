@@ -1,0 +1,29 @@
+Дата выхода на рынок : releaseDateOnMarket
+Тип : type
+Издание : edition
+Объем накопителя : amountOfDrive
+Максимальное разрешение в играх : maxResolutionInGames
+Оптический привод : opticalDrive
+Цвет : color
+Стриминг игр с консоли : streamingGamesFromConsole
+Центральный процессор : cpu
+Количество ядер : numberOfCores
+Графический процессор : graphicsProcessor
+Объем памяти : memory
+Тип памяти : memoryType
+Тип накопителя : typeOfDrive
+Геймпад : gamepad
+Поддержка Bluetooth : supportBluetooth
+Питание геймпада : powerController
+Емкость аккумулятора : batteryCapacity
+Количество геймпадов : numberOfGamepads
+Полная комплектация : complete
+Wi-Fi : wifi
+Ethernet : ethernet
+Bluetooth : bluetooth
+HDMI-выход : hdmiOutput
+USB : usb
+Длина : length
+Ширина : width
+Высота : height
+Вес : weight

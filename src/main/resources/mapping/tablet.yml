@@ -1,0 +1,29 @@
+Дата выхода на рынок : marketEntryDate
+Назначение : purpose
+Диагональ экрана : screenDiagonal
+Разрешение экрана : screenResolution
+Матрица экрана : screenMatrix
+Операционная система : operatingSystem
+Процессор : cpu
+Графический ускоритель : graphicsAccelerator
+Оперативная память : ram
+Внутренняя память : innerMemory
+Количество ядер : numberOfCores
+Тактовая частота : clockFrequency
+Материал корпуса : bodyMaterial
+Цвет корпуса : bodyColor
+Длина : length
+Ширина : width
+Толщина : thickness
+Вес : weight
+Камера : camera
+Количество пикселей камеры : numberOfCameraPixels
+Количество активных пикселей фронтальной камеры : numberOfActivePixelsOfTheFrontCamera
+Встроенный микрофон : builtInMicrophone
+Встроенные динамики : builtInSpeakers
+Bluetooth : bluetooth
+Wi-Fi : wifi
+Аудио выходы (3.5 мм jack) : audioOutputs
+Запас энергии : energyReserve
+Время работы : workingHours
+Комплект поставки : contentsOfDelivery

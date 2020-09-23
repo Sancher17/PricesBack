@@ -1,0 +1,23 @@
+<databaseChangeLog
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd
+    http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+
+    <changeSet author="liquibase-docs" id="insert-data-shop">
+        <insert tableName="shop">
+            <column name="name" value="Onliner"/>
+        </insert>
+        <insert tableName="shop">
+            <column name="name" value="K1"/>
+        </insert>
+        <insert tableName="shop">
+            <column name="name" value="ELEMENT5"/>
+        </insert>
+        <insert tableName="shop">
+            <column name="name" value="VEK21"/>
+        </insert>
+    </changeSet>
+
+</databaseChangeLog>

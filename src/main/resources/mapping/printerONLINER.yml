@@ -1,0 +1,24 @@
+Дата выхода на рынок : releaseDateOnMarket
+Тип : type
+Формат : format
+Печать : print
+Технология печати : printTechnology
+Количество цветов : numberOfColors
+Скорость ч/б печати (А4) : speedBwPrintA4
+Скорость цветной печати (А4) : printSpeedColourA4
+Время печати 10x15см : printing10х15см
+Ресурс картриджа : tonerCartridge
+Операционная система : operatingSystem
+Цвет корпуса : colorOfBody
+Максимальное разрешение (dpi) : maximumResolutionDpi
+Разрешение копирования (dpi) : copyResolutionDpi
+Максимальное число копий : maximumNumberOfCopies
+Вместимость входных лотков : capacityInputTrays
+Макс. вместимость входных лотков : maxCapacityInputTrays
+Вместимость выходных лотков : capacityOfOutputTrays
+USB : usb
+Комплектация : equipment
+Ширина : width
+Высота : height
+Глубина : depth
+Вес : weight

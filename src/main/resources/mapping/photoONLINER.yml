@@ -1,0 +1,41 @@
+Дата выхода на рынок : releaseDateOnMarket
+Тип камеры : cameraType
+Комплект : kit
+Тип матрицы : typeOfMatrix
+Размер экрана : screenSize
+Количество точек матрицы : numberOfPointsOfMatrix
+Физический размер матрицы : physicalSizeOfMatrix
+Максимальное разрешение видео : maximumVideoResolution
+Режимы съемки HD-видео : shootingModesHdVideo
+Материал корпуса : caseMaterial
+Цвет корпуса : colorOfBody
+Длина : length
+Ширина : width
+Толщина : thickness
+Вес : weight
+Тип экрана : screenType
+Количество пикселей экрана : numberOfPixelsOfScreen
+Видоискатель : viewfinder
+Минимальная чувствительность (ISO) : minimumSensitivityIso
+Максимальная чувствительность (ISO) : maximumSensitivityIso
+Расширенная светочувствительность (ISO) : extendedLightSensitivityIso
+Возможность смены объектива : abilityToChangeLens
+Максимальное разрешение снимка : maximumImageResolution
+Количество точек захвата автофокуса : numberOfCapturePointsAutoFocus
+Максимальное количество кадров в секунду : maximumNumberOfFramesPerSecond
+Коррекция экспозиции : exposureCompensation
+Баланс белого : whiteBalance
+Максимальная выдержка : maximumExposure
+Минимальная выдержка : minimumShutterSpeed
+Выдержка синхронизации : flashSyncSpeed
+Скорость съёмки : speedShooting
+Объём буфера : bufferSize
+Поддержка карт памяти : memoryCardSupport
+GPS : gps
+Bluetooth : bluetooth
+Wi-Fi : wifi
+Поддержка дистанционного управления : supportRemoteControl
+Тип аккумулятора : batteryType
+Емкость аккумулятора : batteryCapacity
+Ресурс аккумулятора : batteryLife
+Комплектация : equipment

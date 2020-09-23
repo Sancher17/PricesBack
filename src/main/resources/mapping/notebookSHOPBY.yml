@@ -1,0 +1,45 @@
+Дата выхода : releaseDate
+Тип : type
+Назначение : appointment
+Операционная система : operatingSystem
+Платформа : platform
+Диагональ экрана, " : diagonalOfScreen\
+Макс. разрешение экрана, точек : maxResolutionScreenPixel
+Тип матрицы экрана : typeOfMatrixScreen
+Сенсорный экран : touchScreen
+Поддержка ввода стилусом : supportInputWithStylus
+Поверхность экрана : surfaceOfScreen
+Серия процессора : seriesProcessor
+Процессор : processor
+Количество ядер процессора : numberOfProcessorCores
+Частота процессора, ГГц : frequencyGhz
+Объем оперативной памяти : ram
+Тип оперативной памяти : typeOfRam
+Количество слотов памяти : numberOfMemorySlots
+Максимальный объём памяти : maximumAmountOfMemory
+Тип графического адаптера : typeOfGraphicsAdapter
+Графический адаптер : graphicsAdapter
+Оптический привод : opticalDrive
+Тип жесткого диска : hardDriveType
+Объем жесткого диска : hardDiskSpace
+Встроенный карт-ридер : builtinCardReader
+Беспроводные соединения : wirelessConnections
+Сетевая карта (LAN) : networkCardLan
+Количество портов Thunderbolt : numberOfThunderboltPorts
+Количество портов USB 2.0 : usb20PortsQuantity
+Количество портов USB 3.0 : numberOfUsb30Ports
+Количество портов USB 3.1 Type-C : numberOfPortsUsb31Typec
+Выходы : outputs
+Акустическая система : soundSystem
+Особенности конструкции : designFeatures
+Разрешение Веб-камеры : resolutionWebcamera
+Запас энергии аккумулятора, Вт·ч : energyReserveOfBatteryWh
+Максимальное время работы, ч : maximumOperatingTimeH
+Цвет крышки : capColor
+Материал корпуса : caseMaterial
+Материал крышки : coverMaterial
+Ударопрочный корпус : shockproofCase
+Вес, кг : weight
+Ширина, см : widthCm
+Глубина, см : depthCm
+Высота, см : heightCm

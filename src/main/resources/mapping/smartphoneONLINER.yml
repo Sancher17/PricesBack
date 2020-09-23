@@ -1,0 +1,53 @@
+Дата выхода на рынок : dateComesToMarket
+Тип : typeOfProduct
+Операционная система : operationSystem
+Версия операционной системы : operationSystemVersino
+Размер экрана : screenSize
+Разрешение экрана :  screenResolution
+Оперативная память : ram
+Флэш-память : fleshRam
+Встроенная камера : camera
+Количество основных камер : cameraQuantity
+Количество точек матрицы : cameraMPX
+Количество SIM-карт : simQuantity
+Формат SIM-карты : simFormat
+Максимальное разрешение видео : maxVideoResolution
+Поддержка карт памяти : fleshCards
+Платформа : platform
+Процессор : cpu
+Тактовая частота процессора : quantityCpu
+Количество ядер : frequencyOfCpu
+Микроархитектура ЦПУ : modelCpu
+Разрядность процессора : bitCpu
+Техпроцесс : techProcess
+Графический ускоритель : grafic
+Конструкция корпуса : bodyConstraction
+Материал корпуса : bodyMaterial
+Цвет корпуса : bodyColor
+Цвет фронтальной панели : frontPanelColor
+Расположение фронтальной камеры : frontCameraLocation
+Расположение сканера отпечатка пальца : scannerLocation
+Длина : length
+Ширина : width
+Толщина : thickness
+Вес : weight
+Технология экрана : screenTechnology
+Количество цветов экрана : quantityOfColors
+Разрешающая способность экрана : screenDpi
+Соотношение сторон : aspectRatio
+Характеристики камеры : cameraCharacteristic
+Дополнительные модули камеры : additionalModulesCamera
+Диафрагма основной камеры : apertureMainCamera
+Максимальное количество кадров в секунду : maxCadrsPerSec
+Фронтальная камера : frontCamera
+Диафрагма : aperture
+Поддерживаемые частоты и полосы : supportedFrequencies
+Bluetooth : bluetooth
+Аудиовыход : audioOut
+Wi-Fi : wifi
+Разъём подключения : connectingPlug
+Тип аккумулятора : accumType
+Емкость аккумулятора : accumCapacity
+Время разговора : talkTime
+Время воспроизведения видео : videoTime
+Время воспроизведения аудио : audioTime

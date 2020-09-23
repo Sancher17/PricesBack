@@ -1,0 +1,57 @@
+Год выхода на рынок : dateComesToMarket
+Продуктовая линейка : productLine
+Класс : typeOfProduct
+Назначение : purpose
+Платформа (кодовое название) : platform
+Тип процессора : cpu
+Код процессора : modelCpu
+Количество ядер процессора : quantityCpu
+Частота процессора : frequencyOfCpu
+Turbo-частота : turboFrequencyOfCpu
+Энергопотребление процессора : tdp
+Операционная система : operatingSystem
+Встроенная в процессор графика : videoInternal
+Материал корпуса : bodyMaterial
+Цвет корпуса : bodyColor
+Материал крышки : coverMaterial
+Цвет крышки : coverColor
+Ширина : width
+Длина : dept
+Толщина : thickness
+Вес : weight
+Размер : monitorSize
+Разрешение : monitorResolution
+Технология экрана : technologyOfMonitor
+Поверхность экрана : surfaceOfMonitor
+Тип памяти : typeOfRam
+Размер оперативной памяти : volumeOfRam
+Макс. размер памяти : maxSizeOfRam
+Количество слотов памяти : numberOfSlots
+Свободных слотов памяти: freeSlotsOfMemory
+Частота оперативной памяти: frequencyOfRam
+Конфигурация накопителя: hddConfiguration
+Тип жесткого диска : typeOfHdd
+Ёмкость накопителя: volumeOfHdd
+Скорость вращения : speedOfHdd
+Карты памяти : memoryCards
+Графический адаптер : graficAdapter
+Камера : camera
+Количество пикселей камеры : cameraPixels
+Встроенный микрофон : mircofone
+Встроенные динамики : speakers
+Управление курсором : cursorManager
+Функции защиты приватности: priteFunction
+Bluetooth : bluetooth
+LAN : lan
+Wi-Fi : wiFi
+Всего USB-портов : usbPorts
+USB 2.0 : usb2
+USB 3.0 : usb3
+USB 3.1 Type-C: usb3_1
+Альтернативные режимы USB Type-C : alternativeUsb
+HDMI : hdmi
+Аудио выходы (3.5 мм jack) : audioJack
+Запас энергии: energy
+Время работы: timeOfWork
+Количество ячеек аккумулятора : batteryCells
+Комплект поставки : complect

@@ -1,0 +1,30 @@
+Дата выхода на рынок : marketEntryDate
+Тип : type
+Диагональ экрана : screenDiagonal
+Разрешение : resolution
+Частота матрицы : matrixFrequency
+Smart TV : smartTv
+Цвет корпуса : caseColor
+Цвет рамки : colorFrames
+Цвет подставки : colorStands
+Подставка : stand
+Тип матрицы : typeMatrix
+Глубина цвета : depthOfColor
+Процессор : cpu
+ТВ-тюнер : tvTuner
+Мощность звуковой системы : powerSoundSystem
+Поддержка аудиокодеков : audioCodecSupport
+Bluetooth : bluetooth
+Wi-Fi : wifi
+Композитный вход : compositeIn
+HDMI : hdmi
+Версия HDMI : versionHdmi
+Цифровой выход S/PDIF : digitalOutputS_Pdif
+USB : usb
+Крепление VESA : mountVesa
+Ширина : width
+Высота (с учетом подставки) : height
+Глубина (с учетом подставки) : depth
+Высота (без подставки) : heightWithoutStand
+Толщина панели : thicknessPanel
+Вес (без подставки) : weightWithoutStands
